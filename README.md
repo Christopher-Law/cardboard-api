@@ -10,8 +10,8 @@
 An API for accessing Magic: The Gathering price data
 
 #### <a id="installation">Installation</a>
-1. Clone the repository: `gh repo clone DeathLotusLabs/cardboard`
-2. Navigate to the project directory: `cd cardboard`
+1. Clone the repository: `gh repo clone DeathLotusLabs/cardboard-api`
+2. Navigate to the project directory: `cd cardboard-api`
 3. Install PHP dependencies: `composer install`
 4. Install JavaScript dependencies: `npm install`
 5. Compile assets: `npm run dev`
